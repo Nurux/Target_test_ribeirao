@@ -1,7 +1,8 @@
 # Desafios Target Ribeirão
 
-<a><img src=''></a>
-<a href="">Video demonstrativo</a>
+<a><img src='https://github.com/Nurux/Target_test_ribeirao/blob/main/media_demo/img_ilustrativa.png'></a>
+
+<a href="https://github.com/Nurux/Target_test_ribeirao/blob/main/media_demo/Target_ribeirao.mp4">Video demonstrativo</a>
 
 ## Tem duas versões do codigo disponivel!
     - 1° No modo terminal 
@@ -20,8 +21,6 @@ ou caso use Linux/Mac:
 ---
 
 ### Respostas dos desafios
-
-#
 
 ### 1 
 Observe o trecho de código abaixo:
